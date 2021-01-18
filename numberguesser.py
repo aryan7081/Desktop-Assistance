@@ -33,7 +33,7 @@ while x<5:
 
    
 
-            print("Opps! Correc number is:\t",numb, "\n Try again")
+            print("Opps! Correct number is:\t",numb, "\n Try again")
 
     x = x+1
     y = 5-x
